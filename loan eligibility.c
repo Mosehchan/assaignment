@@ -1,4 +1,4 @@
-//program to calculate fine due to days overdue
+//program to calculate loan eligibity
 /*
 author:moses
 registration number:CT101/G/22682/24
